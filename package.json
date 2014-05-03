@@ -1,0 +1,23 @@
+{
+  "name": "strava",
+  "version": "0.0.0",
+  "description": "Bikes and stuff",
+  "main": "app.coffee",
+  "dependencies": {
+    "async": "~0.8.0",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "coffee app.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cameronpickham/strava.git"
+  },
+  "author": "Cameron Pickham",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cameronpickham/strava/issues"
+  }
+}
